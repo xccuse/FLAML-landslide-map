@@ -1,4 +1,4 @@
-<td><img src="[path/to/your/image1.png](https://github.com/xccuse/FLAML-landslide-map/blob/main/fig/Figure%206.png)" alt="Image 1" width="400"></td>
+<td><img src="https://github.com/xccuse/FLAML-landslide-map/blob/main/fig/Figure%206.png" alt="Image 1" width="400"></td>
 The model is based on the image of Pearson correlation analysis
 <table>
     <td><img src="https://github.com/xccuse/FLAML-landslide-map/blob/main/fig/Figure%207a.png" alt="Image 1"></td>
