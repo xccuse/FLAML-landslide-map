@@ -1,7 +1,4 @@
-<div style="background-color: white; display: inline-block; padding: 10px;">
-    <img src="https://github.com/xccuse/FLAML-landslide-map/blob/main/fig/Figure%206.png" alt="Image 1" style="display: block; max-width: 100%; height: auto;">
-</div>
-<td><img src="https://github.com/xccuse/FLAML-landslide-map/blob/main/fig/Figure%206.png" alt="Image 1" width="1000"></td>
+<td><img src="https://github.com/xccuse/FLAML-landslide-map/blob/main/fig/Figure%206.png" alt="Image 1" width="800"></td>
 The model is based on the image of Pearson correlation analysis
 <table>
     <td><img src="https://github.com/xccuse/FLAML-landslide-map/blob/main/fig/Figure%207a.png" alt="Image 1"></td>
