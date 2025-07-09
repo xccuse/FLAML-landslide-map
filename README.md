@@ -16,6 +16,6 @@ The model is based on the image of Pearson correlation analysis
 
 
 <table>
-    <td><img src="https://github.com/xccuse/FLAML-landslide-map/blob/main/fig/Figure%207a.png" alt="Image 1" width="200"></td>
-    <td><img src="https://github.com/xccuse/FLAML-landslide-map/blob/main/fig/Figure%207b.png" alt="Image 2" width="200"></td>
+    <td><img src="https://github.com/xccuse/FLAML-landslide-map/blob/main/fig/Figure%207a.png" alt="Image 1"></td>
+    <td><img src="https://github.com/xccuse/FLAML-landslide-map/blob/main/fig/Figure%207b.png" alt="Image 2"></td>
 </table>
